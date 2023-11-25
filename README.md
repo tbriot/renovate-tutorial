@@ -1,3 +1,5 @@
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/tbriot/renovate-tutorial/badge)](https://securityscorecards.dev/viewer/?uri=github.com/tbriot/renovate-tutorial)
+
 # Renovate - Hands On Tutorial
 
 ## Introduction
